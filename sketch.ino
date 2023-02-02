@@ -32,7 +32,7 @@ boolean normaliseRail = false;
 void setup() {
   Serial.begin(9600);  
   myservo.attach(9);
-  myservo.write(midAngle); //Put the servco at angle 125, so the balance is in the middle
+  myservo.write(midAngle); //the balance in the middle
   time = millis();
 }
 
