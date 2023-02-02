@@ -22,6 +22,7 @@ float minAngle = 100;
 float maxAngle = 170;
 ////////////////variables for railing
 float midDistance = 27.5;	//Should be the distance from sensor to the middle of the bar in mm
+////////////////variables for railing normalisation
 float minDistance = 10;
 float maxDistance = 35;
 float normaliseRailLength = 15; //Length of the preferred rail after normalisation 
