@@ -10,5 +10,4 @@ Components
 - Arduino Uno
 - Servo motor
 - Distance sensor (Sharp 2Y0A21)
-- Balancing Beam
-- Balancing Ball
+- Balancing Beam components, ball
